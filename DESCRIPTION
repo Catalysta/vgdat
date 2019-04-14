@@ -3,7 +3,7 @@ Type: Package
 Title: GTEx v.7 variance data 
 Version: 0.1.0
 Author: Christina Sousa
-Maintainer: Christina Sousa <sousa.19@buckeyemail.osu.edu>
+Maintainer: Christina Sousa <sousa.19@osu.edu>
 Description: This package includes data from GTEx v.7 which can be used
   to estimate the total allele-specific exression variance in the healthy 
   population. This package is intended to be used in conjunction with the
