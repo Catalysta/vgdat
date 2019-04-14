@@ -72,8 +72,7 @@ from the GTEx project.
 The Genotype-Tissue Expression (GTEx) Project was supported by the Common
 Fund of the Office of the Director of the National Institutes of Health,
 and by NCI, NHGRI, NHLBI, NIDA, NIMH, and NINDS. The data used for the
-analyses described in this manuscript were obtained from:
-[insert, where appropriate]
-the GTEx Portal on 02/17/19.
+analyses described in this manuscript were obtained from the GTEx Portal
+on 02/17/19.
 }
 \keyword{datasets}
